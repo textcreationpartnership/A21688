@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. The Queenes Maiestie consideryng to what extremities a great number of her subiectes are growen, by excesse in apparell, both contrary to the lawes of the realme, and to the disorder and confusion of the degrees of all states ...</title>
+            <title>Proclamations. 1566-02-12</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1566</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21688</idno>
+            <idno type="STC">STC 7995</idno>
+            <idno type="STC">ESTC S112245</idno>
+            <idno type="EEBO-CITATION">99847503</idno>
+            <idno type="PROQUEST">99847503</idno>
+            <idno type="VID">12540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12540)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 455:66)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. The Queenes Maiestie consideryng to what extremities a great number of her subiectes are growen, by excesse in apparell, both contrary to the lawes of the realme, and to the disorder and confusion of the degrees of all states ...</title>
+                  <title>Proclamations. 1566-02-12</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>3 sheets   </extent>
+               <publicationStmt>
+                  <publisher>In Powles Churchyarde, by Rycharde Iugge and Iohn Cawood: Printers to the Queenes Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1566]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A proclamation against excess of apparel.</note>
+                  <note>Publication date from STC.</note>
+                  <note>At foot of sheet 3: Cum priuilegio Regiæ Maiestatis.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clothing and dress --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:12540:1" rendition="simple:additions"/>
+            <head>By the Queene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes Maieſtie conſideryng to what extremities a great number of her ſub<g ref="char:EOLhyphen"/>iectes are growen, by exceſſe in apparell, both contrary to the lawes of the Realme, and to the diſorder and confuſion of the degrees of all ſtates (wherein alwayes di<g ref="char:EOLhyphen"/>uerſitie of Apparell hath taken place) and finally to the ſubuerſion of all good or<g ref="char:EOLhyphen"/>der, by reaſon of remiſeneſſe and impunitie: Hath, with aduiſe of her counſayle, vppon good deliberation, thought meete for ſome degree, towardes a reformation hereof, to cauſe a Summary of ſome thynges neceſſary to this purpoſe, to be ex<g ref="char:EOLhyphen"/>tracted out of certayne Actes of Parliament: And thervnto hath alſo added certein orders, deuiſed with thaſſent of her counſayle, for reformation of further exceſſe in apparell not ſufferable. All which hereafter enſuying, her Maieſtie wylleth to be publiſhed, and to be obſerued <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, without hope or expectation of any poynt of fauour to be ſhewed, eyther to the Offycers that ſhalbe found <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the execution, or to any perſon that ſhalbe founde culpable, in any place within the Realme, after the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of fifteene dayes next folowyng the Proclamation hereof.</p>
+            <div type="part">
+               <head>Certayne clauſes taken out of the Statute made for reformation of exceſſe of Apparell, <hi>the .xxiiii. yere of the raigne of kyng Henry the eyght.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">F</seg>Yrſt, it is ordered, that no man vnder the degree of a Duke, Marqueſſe, Earle, and theyr chyldren, or vnder the degree of a Baron, vnleſſe he be a knyght of the order of the garter, ſhall weare in any part of his apparell, any Wollen cloth made out of this Realme, or any of the Queenes Maie<g ref="char:EOLhyphen"/>ſties dominions, except in Bonettes onely.</p>
+               <p>Item, that no man vnder the degree of a Barons ſonne, or of a Knyght, except he may expende two hundred poundes by yere, for terme of lyfe, ouer all charges, ſhall weare any maner of Veluet in his Gowne, Coate, or other his vppermoſt garment: nor any maner of embrodery, or prickyng with golde, ſyluer, or ſylke, in any part of his apparell, or on thapparell of his Horſe or Mule.</p>
+               <p>Item, that no man vnder the ſayde eſtates and degree, ſauyng ſuch as may diſpende in yerely reuenues, as is af<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſayde, one hundred poundes, aboue all charges, ſhall weare any Satten, Damaſke, ſylke Chamblet, or Taſtata in his Gowne, Coate, or other his vppermoſt apparell or garment: nor any Veluet, ſauyng in ſleueleſſe Iackettes, Doblettes, Coyffes, Partelettes, and Purſes.</p>
+               <p>Item that no man vnder the ſayde degrees, ſauyng the ſonne and heyre apparaunt of a man of three hundred markes by yere, aboue all charges, and ſuch other men as may diſpend in yerely reuenue, as is aforeſayde, fourtie p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>undes ouer all charges, ſhall weare in his Gowne, or any other his vppermoſt apparell, Chamblet, or Sylke: nor in any other part of his apparell any ſylke, ſauyng Satten, Damaſke, Taffata, or Sarſenet in his Doblets: and Sarſenet, Chamblet, or Taffata, in the lynyng of his Gownes, or Veluet in his ſleueleſſe Coates, Iackets, <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>kins, Coyſtes, Cappes, Purſes, or Partelettes. The colours of Scarlet, Crymſyn, or Blewe, alwayes ex<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pted.</p>
+               <p>Item, that no man vnder the ſayde degrees, ſauyng ſuch gentylmen as may diſpende in yerely reuenues, as is aforeſayde, twentie poundes aboue all charges, ſhall weare any maner of ſylke in any apparell of his body, or at his Horſe, or Mule, except it be Satten, Taſtata, Sarſenet, or Damaſke in his Doblet, or Coyffe: &amp; Chamblet in his ſleueleſſe Iackettes: or poyntes, laces, or garters, made in Englande or Wales.</p>
+               <p>Item, that no perſon vnder the ſame degrees, ſauyng ſuch as may diſpende fyue poundes by yere, as is afore<g ref="char:EOLhyphen"/>ſa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, aboue all charges, ſhall weare any ſylke in his Doblettes or Iackettes: nor any thyng made out of the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>alme, ſauyng Chamblet in theyr Doblettes and Iackettes.</p>
+               <p>Item, that no Seruyng man, nor other Yeoman takyng wages, nor ſuch other as may not diſpende of free<g ref="char:EOLhyphen"/>holde fourtie ſhyllynges by yere, as is aforeſayde, ſhall weare any Shert, or Shert bande, vnder or vpper Cappe, Bonet or Hat, garnyſhed, mixt, made, or wrought with ſylke, golde, or ſyluer: nor ſhall weare any Bonet, or Shert bande, made out of the Realme of Englande or Wales.</p>
+               <p>Item, no huſbandman ſhall weare in his Doblette, any other thyng then is wrought within this Realme, F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtyan and Canuaſſe only except.</p>
+               <pb facs="tcp:12540:2"/>
+               <p>Item, no Seruyngman in huſbandry, or Iourneyman in handycraftes, takyng wages, ſhall weare in his Doblet, any other thyng then Fuſtyan, Canuas, Leather, or <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cloth.</p>
+               <p>¶ Item, yf any man ſhall vſe or weare any Apparell or other thyng, c<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ary to the honour of the Articl<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> remembred, then be ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, ſhall to <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Apparell and thyng ſo worne, wherwith <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it be garnyſhed, or the value therof, and alſo, iii. s. iiii. d. in the name of a <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne, for euery day that he ſhall ſo weare the ſame, contrary to the tenour hereof.</p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>Certaine other clauſes and braunches taken out of the Statutes, made in the firſt and</hi> ſeconde yere of Kyng Philip and Queene Mary, neceſſary alſo to be obſerued, to auoyde the exceſſe of apparell.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Yrſt, that no Englyſhman, ſauing the ſonne and heyre apparaunt of a Knyght, or ſuch as may of yerely reuenues duryng lyfe, expende twentie poundes aboue all charges, or be worth in goodes two hundreth poundes, ſhall weare any maner of ſylke, in or vppon his Hatte, Bonnet. Nightcap, Gyrdle, Scabberde, Hoſe, Showes, or Spurlethers, vppon payne of three monethes im<g ref="char:EOLhyphen"/>pryſonment, and fyne of .x. li. for euery dayes wearyng, contrary to the tenour of this Act.</p>
+               <p>Item that if any perſon or perſons, of any eſtate or degree, knowyng any ſeruaunt of his or theyrs to offende, contrary to the Article laſt before remembred, do not put the ſame ſeruaunt out of his or theyr ſeruyce, but ſhall kepe in his or theyr ſeruice, the ſame offendour or offendours, by the ſpace of .xiiii. dayes next after ſuche know<g ref="char:EOLhyphen"/>ledge had: or ſo put out, retayne hym agayne within one yere next after ſuche offence, the ſame perſon ſo retay<g ref="char:EOLhyphen"/>nyng or kepyng in ſeruice any ſuche offender, ſhall forſayte one hundreth poundes.</p>
+               <p>Prouided alwayes, that all and euery perſon and perſons, whiche by any ſtatute lawe, remaynyng in force, is licenced or appoynted to weare any maner of thyng, contrary to the tenour and meanyng of any of the Articles before remembred or any part of them, ſhall and may weare the ſame to him licenced or appointed to weare, as is aforeſayde: Any thing in theſe Articles to the contrary notwithſtandyng.</p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rtaine orders deuiſed by commaundement of the Queenes Maieſtie, with the aduice of</hi> her priuie counſayle, to be obſerued for reformation of the exceſſe in certayne kynde of apparell, and other thinges therto belongyng</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Yrſt, that no Hoſier or other perſon, ſhall put or cauſe to be put, any more in the outſyde of the vpperſtockes of Hoſe for any perſon, but one yarde and one quarter of Cloth, Carſey, or other ſtuffe, not exceedyng the lyke quantitie of Carſey. And wher<g ref="char:EOLhyphen"/>of ſoeuer the ſame ſhalbe made, that no one of the ſayd vpperſtockes ſhall exceede in com<g ref="char:EOLhyphen"/>paſſe rounde about, aboue one yarde and halfe a quarter, which meaſure is proued ſuffi<g ref="char:EOLhyphen"/>cient for perſons of the hygheſt ſtature. And therefore it is ment, that all other perſons of meaner ſtatures, ſhall vſe leſſe quantitie, both in ſtuffe and largeneſſe, accordyng to theyr ſtatures, without fraude or abuſe.</p>
+               <p>Item, that no Tayler, Hoſier, or other perſon, ſhall put, or cauſe to be put in any of the ſayd vpperſtockes, aboue theſe kyndes of lynynges folowyng. Fyrſt, a lynyng of lynnen, or ſuche lyke ſtuffe next to the legge, and then one lynyng called a ſtraight lynyng, whiche ſhalbe made of no ma<g ref="char:EOLhyphen"/>ner of ſtuffe, but of ſuch as is made &amp; wrought within the Queenes Maieſties dominions. And if any perſon ſhal<g ref="char:EOLhyphen"/>be diſpoſed for his habilitie, to cut and garnyſhe the outſide of his Hoſe, with any thyng that he may lawfully w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are, for the pluckyng out betwixt the panes and cuttes, he ſhalbe ſo ſuffred to do accordyng to his habilitie, not vſyng any thyng therin exceſſiuely, nor any thyng that he may not weare by the lawes of the Realme. And laſtly, it ſhall alſo be permitted for any perſon (beyng ſo diſpoſed) to haue the panes of his Hoſe lyned with one other lynyng onlye, ſo as the ſame be alſo of ſtuffe made within the Queenes Maieſties dominions. And it is ordered that no perſon vnder the ſtate of a Baron, ſhall vſe any mo lynynges in any vpperſtockes of Hoſe, then is next aboue mentioned. And that all perſons vnder that degree, ſhall within ten dayes after the publication hereof, reforme their Hoſe accordyng to theſe orders.</p>
+               <p>Item, it is further ordred, that no man vnder the degree of a Barons eldeſt ſonne, except that he be of the order of the garter, or of the priuie Councell, or that may diſpend fiue hundred markes by yere, for terme of life in poſſeſſion, aboue al charges, ſhall we are any Veluet, or Satten, or any ſtuffe of like or greater pryce, in the vpperſtockes of his Hoſe, or in any part therof: or ſhall garniſhe the ſame with any embroderye, or any fringe, lace, or paſſemayne, of golde, ſyluer, or ſylke, nor any other garniſhing with any ſilke, except it be for the ſtitching only of the vpper part to the lyuyng: nor ſhall weare any maner of ſylke neatherflockes of Hoſen, nor any Carſey, or other thyng, made out of the Queenes Maieſties dominions.</p>
+               <p>Item, it is not meant by any of theſe orders, that ſuche perſons attendyng nere to her Maieſties perſon in the Court, as ſhall haue ſpeciall licence in wrytyng of her Maieſtie, to weare ſome ſylke, to the contrary hereof, ſhalbe moleſted for the ſame: ſo as the ſame perſons do notifie theyr licence vnto the Lorde Chaumberlayne, be<g ref="char:EOLhyphen"/>fore they ſhall do any thyng contrary to theſe orders, and procure theyr names to be entred into the bookes of the Chaumber, in the cuſtodie of the gentlemen Vſſhers, whiche ſhalbe alſo duely obſerued by the ſayde Vſſhers.</p>
+               <pb facs="tcp:12540:3" rendition="simple:additions"/>
+               <p>Item, becauſe it is dayly ſeene what d<gap reason="illegible" resp="#MURP" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ers do growe, and are lykely to encreaſe in the Realme, by the en<g ref="char:EOLhyphen"/>creaſe of numbers of perſons takyng vpon them to teache the multitude of the common people to play at all kynd of weapons and for that purpoſe ſet vp ſcooles, called ſcooles of fence, in places inconuenient, tendyng to the great diſorder of ſuch people as properly ought to apply theyr labours and handy workes: Therfore her Maie<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> orderred and commaundeth, that no teacher of fence, ſhall kepe any ſcoole or common place of reſort, in any place of the Realme, but within the liberties of ſome of the Cities of the Realme, where alſo they ſhalbe obedient to ſuch orders as the gouernours of the Cities ſhall appoynt to them, for the better kepyng of the peace, and for prohibition of reſort of ſuch people to the ſame ſcooles, as are not meete for that purpoſe, vpon payne to be puny<g ref="char:EOLhyphen"/>ſhed by the ſayde gouernours, accordyng to theyr diſcretions.</p>
+               <p>Item her Maieſtie alſo ordereth and commaundeth, that no perſon ſhall weare any Sworde, Rapyer, or ſuch <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> weapon, that ſhall paſſe the length of one yarde and halfe a quarter of the blade, at the vttermoſt: nor any Dagg<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r aboue the length of .xii. ynches in blade at the moſt: nor any buckler with any poynt or pyke aboue two ynches in length. And yf any Cutler, or other Artificer, ſhall ſell, make, or kepe in his houſe any Sworde, Ra<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Dagger, Buckler, or ſuch lyke, contrary thervnto, the ſame to be impriſoned, &amp; to make fine at the Queenes Maieſties pleaſure, and the weapon to be forfayted. And yf any ſuch perſon ſhall offende a ſeconde tyme, than the ſame to be banyſhed from the place and towne of his dwellyng.</p>
+               <p>Item it is further ordered, that all the Articles before remembred, ſhalbe put in execution in all poyntes, by all maner of magiſtrates and offycers, accordyng to the Statutes, lawes, and Proclamations heretofore made and ſet foorth, concernyng the ſame. That is to ſay, agaynſt the offenders of any of the aforeſayde Articles, extracted out of any of the ſaid Statutes afore mencioned, according to the purport therof. And for ſuch as ſhall contemne any of the orders before mentioned, being deuiſed by her Maieſties commaundement, to attache and commit the <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to perſon and to be there continued &amp; punyſhed, as appertayneth to ſuch as ſhall wylfully breake her Maie<g ref="char:EOLhyphen"/>ſties comm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>undement.</p>
+               <p>And for that it is ſeene neceſſary, to ſtay the inordinate deuiſes of Hoſyers, for the impug<g ref="char:EOLhyphen"/>ning of theſe good orders: The Queenes Maieſtie wylleth, that the Maiors &amp; head officers of the Citie of Lon<g ref="char:EOLhyphen"/>don and all other Cities and Townes corporate, and Stewardes and Rulers of all other Liberties, &amp; Iuſtices of peace in all Counties, ſhall immediatly call before them all Hoſyers, and bynde them in good ſummes of mo<g ref="char:EOLhyphen"/>ney to the vſe of her Maieſtie: and the Infourmer, as in other populer actions, to obſerue the contentes of theſe orders, and not to abuſe the meanyng therof with any fraude. And further to proceede therein, aſwell agaynſte the ſayde Hoſyers, as agaynſt any other offender, for thexecution hereof, as was in ſundry Articles publyſhed and preſcribed by her Maieſties Proclamation, in the fourth yere of her raigne.</p>
+               <closer>
+                  <dateline>Y<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uen at Greenewich <date>the .xii. day of February. 1565. in the eyghth yere of her Maieſties raigne.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <closer>GOD ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London in Powles Churchyarde, by Rycharde Iugge and Iohn Cawood: Printers to the Queenes Maieſtie.</p>
+            <p>Cum priuilegio Regiae Maieſtatis.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
